@@ -1,0 +1,9 @@
+{
+    "0x488": {
+        "DAS_steeringHapticRequest": 1,
+        "DAS_steeringAngleRequest": 777,
+        "DAS_steeringControlType": 1,
+        "DAS_steeringControlCounter": 4,
+        "DAS_steeringControlChecksum": 7
+    }
+}
